@@ -1,0 +1,15 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Homeworks\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Homeworks\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Homeworks\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\bin\Debug\Three Methods.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\bin\Debug\Three Methods.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\bin\Debug\Three Methods.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\obj\Debug\Three Methods.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\obj\Debug\Three Methods.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\Three Methods\Three Methods\obj\Debug\Three Methods.pdb
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Three Methods\Three Methods\bin\Debug\Three Methods.exe.config
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Three Methods\Three Methods\obj\Debug\Three Methods.exe
+C:\Users\Pablo\Documents\Visual Studio 2015\Projects\C# Track\GitHub-Local\Three Methods\Three Methods\obj\Debug\Three Methods.pdb
